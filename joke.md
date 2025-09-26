@@ -1,0 +1,1 @@
+I started a project in computational intelligence… but so far the only intelligent thing it computed was that I should’ve chosen an easier course.
